@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         final boolean[] flag = {true};
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //获取布局文件中的添加的线性布局管理器
+
         LinearLayout ll = (LinearLayout)findViewById(R.id.ll);
         //获取AnimationDrawable对象
         final AnimationDrawable animationDrawable = (AnimationDrawable)ll.getBackground();
