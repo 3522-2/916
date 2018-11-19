@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:duration="60" android:drawable="@drawable/img001"/>
+
+    <item android:duration="60" android:drawable="@drawable/img002"/>
+
+    <item android:duration="60" android:drawable="@drawable/img003"/>
+
+    <item android:duration="60" android:drawable="@drawable/img004"/>
+
+    <item android:duration="60" android:drawable="@drawable/img005"/>
+
+    <item android:duration="60" android:drawable="@drawable/img006"/>
+
+</animation-list>
